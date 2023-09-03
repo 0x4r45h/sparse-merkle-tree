@@ -1,0 +1,3 @@
+module merkle-tree
+
+go 1.21.0
